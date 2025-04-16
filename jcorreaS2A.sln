@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jcorreaS2A", "jcorreaS2A.csproj", "{5518C33D-DCC8-4814-A0AA-16F0269382BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5518C33D-DCC8-4814-A0AA-16F0269382BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5518C33D-DCC8-4814-A0AA-16F0269382BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5518C33D-DCC8-4814-A0AA-16F0269382BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5518C33D-DCC8-4814-A0AA-16F0269382BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7307AD2-7B44-42DC-A8D8-DCE78C3D233F}
+	EndGlobalSection
+EndGlobal
