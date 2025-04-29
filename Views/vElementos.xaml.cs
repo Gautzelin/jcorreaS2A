@@ -7,6 +7,13 @@ public partial class vElementos : ContentPage
 		InitializeComponent();
 	}
 
+    public vElementos(String username)
+    {
+        InitializeComponent();
+        welcomeLabel.Text = $"Bienvenido, {username}!";
+    }
+
+
     private void btnPaises_Clicked(object sender, EventArgs e)
     {
 		try

@@ -7,11 +7,12 @@
         Padding="20"
         Spacing="20">
         <Label 
+            x:Name="welcomeLabel"
             Text="SEMANA 2 - ELEMENTOS GUI"
             FontSize="20"
             TextColor="ForestGreen"
             VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            HorizontalOptions="Center"/>
 
         <Picker x:Name="PkPaises" Title="Paises">
             <Picker.Items>

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jcorreaS2A")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ae4ae5f7d484b3ecdff792d39d9c7f8d8fae34bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("jcorreaS2A")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jcorreaS2A")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

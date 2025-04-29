@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQi4KO5VA0w=",
+  "dgSpecHash": "WxiFAOyk5Qs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\jcorreaS2A\\jcorreaS2A.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\UISRAEL\\Uisrael-8voS\\Moviles\\jcorreaS2A\\jcorreaS2A.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
